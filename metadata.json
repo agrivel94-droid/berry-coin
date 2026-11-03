@@ -1,0 +1,22 @@
+
+{
+  "name": "Berry Coin",
+  "symbol": "BERRY",
+  "description": "Du Gros du Roi au Berry Coin. La monnaie numérique communautaire du Berry, sur Solana, destinée à valoriser les commerces, le patrimoine, la culture et les initiatives berrichonnes.",
+  "image": "https://raw.githubusercontent.com/agrivel94-droid/berry-coin/main/berry-coin.png",
+  "external_url": "https://github.com/agrivel94-droid/berry-coin",
+  "attributes": [
+    {
+      "trait_type": "Territoire",
+      "value": "Berry"
+    },
+    {
+      "trait_type": "Inspiration",
+      "value": "Le Gros du Roi"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ]
+}
